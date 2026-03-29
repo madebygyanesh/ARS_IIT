@@ -55,6 +55,7 @@ This project implements a wireless vibration monitoring and relay control system
 ```text
 .
 ├── Circuit_Diagram/         # Hardware wiring diagrams (Worker & Display)
+├── doc/                     # Project documentation and reports
 ├── C3_Worker/               # Source code for ESP32-C3 Worker node
 ├── ESP32_TFT_DISPLAY/       # Source code for ESP32 Display node
 ├── libraries/               # Required pre-configured Arduino libraries
